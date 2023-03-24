@@ -1,0 +1,25 @@
+new turn 0
+move 0 to 0
+interact 0
+take loot
+end turn 0
+new turn 0
+move 0 to 1
+interact 0
+take loot
+end turn 0
+new turn 0
+move 0 to 2
+interact 0
+take loot
+end turn 0
+new turn 0
+move 0 to 3
+interact 0
+take loot
+end turn 0
+new turn 0
+move 0 to 4
+interact 0
+take loot
+end turn 0

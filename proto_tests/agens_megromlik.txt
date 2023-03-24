@@ -1,0 +1,17 @@
+new_turn 1
+move 1 to 1
+interact 1
+take_loot 1
+new_turn 1
+move 1 to 2
+interact 1
+take_loot 1
+end_turn 1
+new_turn 1
+synthetize 1
+1
+end_turn 1
+new_turn 1
+end_turn 1
+new_turn 1
+end_turn 1

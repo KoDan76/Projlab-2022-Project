@@ -1,0 +1,30 @@
+execute success
+load success
+Virologist 0 currently on fieldID: 4 type: Laboratory
+Field: Laboratory Neighbors: 7, 2, 3, 8, 19, 
+Field: Laboratory Neighbors: 7, 2, 3, 8, 19, 
+Players: 0 , 1 , 2 , 3 , 
+0Gained Genome: Dancing
+Virologist 0 currently on fieldID: 4 type: Laboratory
+Field: Laboratory Neighbors: 7, 2, 3, 8, 19, 
+0 moved
+Virologist 0 currently on fieldID: 7 type: Warehouse
+Field: Warehouse Neighbors: 2, 4, 8, 10, 16, 15, 
+Field: Warehouse Neighbors: 2, 4, 8, 10, 16, 15, 
+Players: 0 , 
+0Gained nucleotid and aminoacid
+Virologist 0 currently on fieldID: 7 type: Warehouse
+Field: Warehouse Neighbors: 2, 4, 8, 10, 16, 15, 
+Field: Warehouse Neighbors: 2, 4, 8, 10, 16, 15, 
+Players: 0 , 
+0Gained nucleotid and aminoacid
+Virologist 0 currently on fieldID: 7 type: Warehouse
+Field: Warehouse Neighbors: 2, 4, 8, 10, 16, 15, 
+Available agents:
+Ami: 8
+Nuc: 8
+1. Dancing Amino Acid: 4 Nucleotid: 6
+Dancing synthetized
+Virologist 0 currently on fieldID: 7 type: Warehouse
+Field: Warehouse Neighbors: 2, 4, 8, 10, 16, 15, 
+ended turn

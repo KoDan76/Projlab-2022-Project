@@ -1,0 +1,121 @@
+Specify number of all Fields
+Specify number of Warehouses
+Specify number of Shelters
+Specify number of Labs (minimum 5)
+Adding neighbours escape code: -1
+Type the next neighbor's ID of FieldID: 0 Type: Laboratory
+Type the next neighbor's ID of FieldID: 0 Type: Laboratory
+Type the next neighbor's ID of FieldID: 0 Type: Laboratory
+Type the next neighbor's ID of FieldID: 0 Type: Laboratory
+Type the next neighbor's ID of FieldID: 0 Type: Laboratory
+Type the next neighbor's ID of FieldID: 1 Type: Laboratory
+Type the next neighbor's ID of FieldID: 1 Type: Laboratory
+Type the next neighbor's ID of FieldID: 1 Type: Laboratory
+Type the next neighbor's ID of FieldID: 1 Type: Laboratory
+Type the next neighbor's ID of FieldID: 1 Type: Laboratory
+Type the next neighbor's ID of FieldID: 2 Type: Laboratory
+Type the next neighbor's ID of FieldID: 2 Type: Laboratory
+Type the next neighbor's ID of FieldID: 2 Type: Laboratory
+Type the next neighbor's ID of FieldID: 2 Type: Laboratory
+Type the next neighbor's ID of FieldID: 2 Type: Laboratory
+Type the next neighbor's ID of FieldID: 2 Type: Laboratory
+Type the next neighbor's ID of FieldID: 2 Type: Laboratory
+Type the next neighbor's ID of FieldID: 3 Type: Laboratory
+Type the next neighbor's ID of FieldID: 3 Type: Laboratory
+Type the next neighbor's ID of FieldID: 3 Type: Laboratory
+Type the next neighbor's ID of FieldID: 3 Type: Laboratory
+Type the next neighbor's ID of FieldID: 3 Type: Laboratory
+Type the next neighbor's ID of FieldID: 4 Type: Laboratory
+Type the next neighbor's ID of FieldID: 4 Type: Laboratory
+Type the next neighbor's ID of FieldID: 4 Type: Laboratory
+Type the next neighbor's ID of FieldID: 4 Type: Laboratory
+Type the next neighbor's ID of FieldID: 4 Type: Laboratory
+Type the next neighbor's ID of FieldID: 4 Type: Laboratory
+Type the next neighbor's ID of FieldID: 5 Type: Warehouse
+Type the next neighbor's ID of FieldID: 5 Type: Warehouse
+Type the next neighbor's ID of FieldID: 5 Type: Warehouse
+Type the next neighbor's ID of FieldID: 5 Type: Warehouse
+Type the next neighbor's ID of FieldID: 6 Type: Warehouse
+Type the next neighbor's ID of FieldID: 6 Type: Warehouse
+Type the next neighbor's ID of FieldID: 6 Type: Warehouse
+Type the next neighbor's ID of FieldID: 6 Type: Warehouse
+Type the next neighbor's ID of FieldID: 7 Type: Warehouse
+Type the next neighbor's ID of FieldID: 7 Type: Warehouse
+Type the next neighbor's ID of FieldID: 7 Type: Warehouse
+Type the next neighbor's ID of FieldID: 7 Type: Warehouse
+Type the next neighbor's ID of FieldID: 7 Type: Warehouse
+Type the next neighbor's ID of FieldID: 7 Type: Warehouse
+Type the next neighbor's ID of FieldID: 7 Type: Warehouse
+Type the next neighbor's ID of FieldID: 8 Type: Shelter
+Type the next neighbor's ID of FieldID: 8 Type: Shelter
+Type the next neighbor's ID of FieldID: 8 Type: Shelter
+Type the next neighbor's ID of FieldID: 8 Type: Shelter
+Type the next neighbor's ID of FieldID: 8 Type: Shelter
+Type the next neighbor's ID of FieldID: 9 Type: Shelter
+Type the next neighbor's ID of FieldID: 9 Type: Shelter
+Type the next neighbor's ID of FieldID: 9 Type: Shelter
+Type the next neighbor's ID of FieldID: 9 Type: Shelter
+Type the next neighbor's ID of FieldID: 9 Type: Shelter
+Type the next neighbor's ID of FieldID: 10 Type: Shelter
+Type the next neighbor's ID of FieldID: 10 Type: Shelter
+Type the next neighbor's ID of FieldID: 10 Type: Shelter
+Type the next neighbor's ID of FieldID: 10 Type: Shelter
+Type the next neighbor's ID of FieldID: 10 Type: Shelter
+Type the next neighbor's ID of FieldID: 10 Type: Shelter
+Type the next neighbor's ID of FieldID: 10 Type: Shelter
+Type the next neighbor's ID of FieldID: 11 Type: Field
+Type the next neighbor's ID of FieldID: 11 Type: Field
+Type the next neighbor's ID of FieldID: 11 Type: Field
+Type the next neighbor's ID of FieldID: 11 Type: Field
+Type the next neighbor's ID of FieldID: 12 Type: Field
+Type the next neighbor's ID of FieldID: 12 Type: Field
+Type the next neighbor's ID of FieldID: 12 Type: Field
+Type the next neighbor's ID of FieldID: 12 Type: Field
+Type the next neighbor's ID of FieldID: 13 Type: Field
+Type the next neighbor's ID of FieldID: 13 Type: Field
+Type the next neighbor's ID of FieldID: 13 Type: Field
+Type the next neighbor's ID of FieldID: 13 Type: Field
+Type the next neighbor's ID of FieldID: 13 Type: Field
+Type the next neighbor's ID of FieldID: 14 Type: Field
+Type the next neighbor's ID of FieldID: 14 Type: Field
+Type the next neighbor's ID of FieldID: 14 Type: Field
+Type the next neighbor's ID of FieldID: 14 Type: Field
+Type the next neighbor's ID of FieldID: 15 Type: Field
+Type the next neighbor's ID of FieldID: 15 Type: Field
+Type the next neighbor's ID of FieldID: 15 Type: Field
+Type the next neighbor's ID of FieldID: 15 Type: Field
+Type the next neighbor's ID of FieldID: 15 Type: Field
+Type the next neighbor's ID of FieldID: 15 Type: Field
+Type the next neighbor's ID of FieldID: 15 Type: Field
+Type the next neighbor's ID of FieldID: 16 Type: Field
+Type the next neighbor's ID of FieldID: 16 Type: Field
+Type the next neighbor's ID of FieldID: 16 Type: Field
+Type the next neighbor's ID of FieldID: 16 Type: Field
+Type the next neighbor's ID of FieldID: 16 Type: Field
+Type the next neighbor's ID of FieldID: 16 Type: Field
+Type the next neighbor's ID of FieldID: 16 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 17 Type: Field
+Type the next neighbor's ID of FieldID: 18 Type: Field
+Type the next neighbor's ID of FieldID: 18 Type: Field
+Type the next neighbor's ID of FieldID: 18 Type: Field
+Type the next neighbor's ID of FieldID: 18 Type: Field
+Type the next neighbor's ID of FieldID: 19 Type: Field
+Type the next neighbor's ID of FieldID: 19 Type: Field
+Type the next neighbor's ID of FieldID: 19 Type: Field
+<<<<<<< HEAD
+=======
+What type of map is this? 
+1 - big
+2-medium
+3 - small
+works
+How many players are there?
+wrong command
+>>>>>>> branch 'master' of https://github.com/KoDan76/Projlab2022-CsipetCsapat.git

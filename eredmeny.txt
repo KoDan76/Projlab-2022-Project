@@ -1,0 +1,2 @@
+Jatekos 1 : megtanult genomok szama: 5
+Jatekos 2 : megtanult genomok szama: 4

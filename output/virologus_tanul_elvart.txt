@@ -1,0 +1,10 @@
+execute success
+load success
+Virologist 0 currently on fieldID: 4 type: Laboratory
+Field: Laboratory Neighbors: 7, 2, 3, 8, 19, 
+Field: Laboratory Neighbors: 7, 2, 3, 8, 19, 
+Players: 0 , 1 , 2 , 3 , 
+0Gained Genome: Dancing
+Virologist 0 currently on fieldID: 4 type: Laboratory
+Field: Laboratory Neighbors: 7, 2, 3, 8, 19, 
+ended turn

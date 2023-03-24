@@ -1,0 +1,16 @@
+execute success
+load success
+Virologist 0 currently on fieldID: 4 type: Laboratory
+Field: Laboratory Neighbors: 7, 2, 3, 8, 19, 
+0 moved
+Virologist 0 currently on fieldID: 8 type: Warehouse
+Field: Warehouse Neighbors: 14, 10, 7, 4, 
+0 moved
+Virologist 0 currently on fieldID: 10 type: Shelter
+Field: Shelter Neighbors: 9, 6, 14, 8, 7, 16, 
+Field: Shelter Neighbors: 9, 6, 14, 8, 7, 16, 
+Players: 0 , 
+0 Gained Equipment: Gloves
+Virologist 0 currently on fieldID: 10 type: Shelter
+Field: Shelter Neighbors: 9, 6, 14, 8, 7, 16, 
+ended turn

@@ -1,0 +1,23 @@
+new_turn 1
+move 1 to 1
+interact 1
+take_loot 1
+new_turn 1
+move 1 to 3
+interact 1
+take_loot 1
+end_turn 1
+new_turn 1
+move 1 to 4
+synthetize 1
+3
+end_turn 1
+new_turn 1
+interact 2
+use_agent 1 on 2
+4
+end_turn 1
+new_turn 1
+interact 2
+plunder 1 from 2
+end_turn 1

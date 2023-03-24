@@ -1,0 +1,2 @@
+new_turn 0
+move 0 to 1
